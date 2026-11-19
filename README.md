@@ -16,6 +16,26 @@ Zener diode – The diodes, which are designed to operate in the breakdown regio
 
 Circuit diagram (forward and reverse bias)
 
+<img width="1892" height="401" alt="image" src="https://github.com/user-attachments/assets/cb2232bc-6ae3-48c6-a183-9ddf353d9cd6" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Procedure / simulation reference
 
 Procedure
@@ -32,10 +52,11 @@ Reverse Bias
 9.	As the reverse bias voltage reaches the breakdown voltage, the current through the diode increases rapidly.
 10.	The breakdown voltage is noted before the breakdown and connection is changed such that lower range ammeter is included in the circuit.
 11.	Graph is drawn between Vr and Ir.
-12.	The reverse conduction region is extended to meet at a point. The value at this point is Vrb.
-Observation Table
+12.	The reverse conduction region is extended to meet at a point. The value at this point is Vrb.Observation Table
 Forward Bias	Reverse Bias
 Voltage (V)	Current (mA)	Voltage (V)	Current (mA)
+
+
 			
 			
 			
