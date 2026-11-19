@@ -83,5 +83,6 @@ Forward Resistance:
 RF = [(0.74 − 0.73) / (3.30 − 2.53)] × 10³ ≈ 12 Ω
 Reverse Resistance:
 RR = [(5.12 − 5.11) / (1.87 − 1.37)] × 10³ = 20 Ω
-Result
+
+Result:
 Thus the Zener diode characteristics were studied.
